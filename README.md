@@ -74,12 +74,8 @@ Je suis passionné par la technologie et l'informatique. J'aime résoudre des pr
 
 ---
 
-### 🎉 Fun Fact:
-<p align="center">
-    <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400">
-</p>
 
 🚀 **Empire demain, aujourd'hui je construis**  
-💡 *Le futur appartient à ceux qui prennent des risques.*
+💡 **Le futur appartient à ceux qui prennent des risques.**
 
 ---
