@@ -26,25 +26,25 @@
   
   ### 🖥️ Développement
   - 🛠️ Bash (Automatisation, scripts)  
-    ![Progress](https://geps.dev/progress/80) *(Avancé)*
+    ![Progress](https://geps.dev/progress/90) *(Avancé)*
   - 🌐 HTML, CSS (Web Dev)  
-    ![Progress](https://geps.dev/progress/70) *(Intermédiaire)*
+    ![Progress](https://geps.dev/progress/45) *(Intermédiaire)*
   - 🔌 Réseaux (TCP/IP, Switch, Router)  
-    ![Progress](https://geps.dev/progress/85) *(Expert)*
+    ![Progress](https://geps.dev/progress/60) *(Expert)*
   
   ### 🛠️ IT & Systèmes
   - 💾 Windows / Linux  
     ![Progress](https://geps.dev/progress/90)
-  - 🖥️ Virtualisation (VMware, Hyper-V)  
-    ![Progress](https://geps.dev/progress/75)
-  - 🔐 Sécurité Informatique  
+  - 🖥️ Virtualisation (VMware, Proxmox)  
     ![Progress](https://geps.dev/progress/60)
+  - 🔐 Sécurité Informatique  
+    ![Progress](https://geps.dev/progress/85)
   
   ### 🔧 Réparation & Maintenance
   - 📱 Téléphones, Consoles, Ordinateurs  
-    ![Progress](https://geps.dev/progress/95)
+    ![Progress](https://geps.dev/progress/90)
   - 🦠 Suppression de malwares  
-    ![Progress](https://geps.dev/progress/85)
+    ![Progress](https://geps.dev/progress/75)
   - 🛠️ Dépannage matériel & logiciel  
     ![Progress](https://geps.dev/progress/90)
   
@@ -81,5 +81,5 @@
     <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400">
   </p>
   
-  🔥 **Profil créé avec passion.** 🚀  
-  💡 *"L'innovation commence là où l'on résout des problèmes."*  
+🚀 Empire demain, aujourd'hui je construis
+💡 Le futur appartient à ceux qui prennent des risques
