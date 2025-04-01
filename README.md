@@ -1,6 +1,6 @@
-<!-- Bannière avec une image -->
+<!-- Bannière Profil -->
 <p align="center">
-    <img src="https://i.imgur.com/URL_DE_L_IMAGE.png" alt="Bannière Profil"/>
+    <img src="https://i.imgur.com/Y8iGhp1.png" alt="Bannière Profil" width="100%" />
 </p>
 
 <p align="center">
@@ -27,11 +27,11 @@ Je suis passionné par la technologie et l'informatique. J'aime résoudre des pr
 
 ### 🖥️ Développement
 - 🛠️ Bash (Automatisation, scripts)  
-    ![Progress](https://geps.dev/progress/90) *(Avancé)*
+    ![Progress](https://geps.dev/progress/90) *(Avancé)*  
 - 🌐 HTML, CSS (Web Dev)  
-    ![Progress](https://geps.dev/progress/45) *(Apprenti)*
+    ![Progress](https://geps.dev/progress/45) *(Apprenti)*  
 - 🔌 Cisco (Réseaux - TCP/IP, Switch, Router)  
-    ![Progress](https://geps.dev/progress/60) *(Intermédiaire)*
+    ![Progress](https://geps.dev/progress/60) *(Intermédiaire)*  
 - ⚡ JavaScript (Node.js)  
     ![Progress](https://geps.dev/progress/65) *(Intermédiaire)*
 
