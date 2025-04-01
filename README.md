@@ -66,6 +66,3 @@ Je suis passionné par la technologie et l informatique. J'aime résoudre des pr
 </p>
 
 ---
-
-🔥 **Profil créé avec passion.** 🚀  
-💡 *"L'innovation commence là où l'on résout des problèmes."*  
