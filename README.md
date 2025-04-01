@@ -1,6 +1,6 @@
 <!-- Bannière Profil -->
 <p align="center">
-    <img src="[https://i.imgur.com/Y8iGhp1.png](https://imgur.com/7KsXeMo)" alt="Bannière Profil" width="100%" />
+    <img src="https://imgur.com/7KsXeMo" alt="Bannière Profil" width="100%" />
 </p>
 
 <p align="center">
