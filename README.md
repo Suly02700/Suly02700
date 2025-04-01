@@ -1,6 +1,6 @@
 <!-- Bannière Profil -->
 <p align="center">
-    <img src="https://imgur.com/7KsXeMo" alt="Bannière Profil" width="100%" />
+    <img src="https://i.imgur.com/Y8iGhp1.png" alt="Bannière Profil" width="100%" />
 </p>
 
 <p align="center">
@@ -86,3 +86,5 @@ Je suis passionné par la technologie et l'informatique. J'aime résoudre des pr
 
 🚀 **Empire demain, aujourd'hui je construis**  
 💡 *Le futur appartient à ceux qui prennent des risques.*
+
+---
