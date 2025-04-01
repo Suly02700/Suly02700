@@ -1,8 +1,3 @@
-<!-- Bannière Profil -->
-<p align="center">
-    <img src="https://i.imgur.com/Y8iGhp1.png" alt="Bannière Profil" width="100%" />
-</p>
-
 <p align="center">
     <img src="https://img.shields.io/badge/Bash-blue?style=for-the-badge&logo=gnu-bash&logoColor=white" />
     <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white" />
