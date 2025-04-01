@@ -1,5 +1,5 @@
 <!-- Bannière sans GIF avec arrière-plan -->
-<p align="center" style="background-color: rgb(13, 17, 23);">
+<p align="center" style="background-color: rgb (13, 17, 23);">
     <img src="https://readme-headers.vercel.app/api?text=Hello%20👋,%20I'm%20Suly&color=gradient" />
   </p>
   
@@ -85,4 +85,4 @@
   </p>
   
   🚀 **Empire demain, aujourd'hui je construis**  
-  💡 *Le futur appartient à ceux qui prennent des risques.*
+  💡 *Le futur appartient à ceux qui prennent des risques.*  
