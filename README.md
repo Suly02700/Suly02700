@@ -1,7 +1,7 @@
 <p align="center">
     <img src="https://img.shields.io/badge/Bash-blue?style=for-the-badge&logo=gnu-bash&logoColor=white" />
     <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white" />
     <img src="https://img.shields.io/badge/Cisco-lightgrey?style=for-the-badge&logo=cisco&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white" />
 </p>
@@ -23,7 +23,7 @@ Je suis passionné par la technologie et l'informatique. J'aime résoudre des pr
 ### 🖥️ Développement
 - 🛠️ Bash (Automatisation, scripts)  
     ![Progress](https://geps.dev/progress/90) *(Avancé)*  
-- 🌐 HTML, CSS (Web Dev)  
+- 🌐 HTML, JavaScript (Web Dev)  
     ![Progress](https://geps.dev/progress/45) *(Apprenti)*  
 - 🔌 Cisco (Réseaux - TCP/IP, Switch, Router)  
     ![Progress](https://geps.dev/progress/60) *(Intermédiaire)*  
@@ -74,8 +74,5 @@ Je suis passionné par la technologie et l'informatique. J'aime résoudre des pr
 
 ---
 
-
 🚀 **Empire demain, aujourd'hui je construis**  
 💡 **Le futur appartient à ceux qui prennent des risques.**
-
----
