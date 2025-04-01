@@ -27,7 +27,7 @@ Je suis passionné par la technologie et l'informatique. J'aime résoudre des pr
 - 🔌 Cisco (Réseaux - TCP/IP, Switch, Router)  
     ![Progress](https://geps.dev/progress/60) *(Intermédiaire)*  
 - ⚡ JavaScript (Node.js)  
-    ![Progress](https://geps.dev/progress/65) *(Intermédiaire)*
+    ![Progress](https://geps.dev/progress/40) *(Intermédiaire)*
 
 ### 🛠️ IT & Systèmes
 - 💾 Windows / Linux  
