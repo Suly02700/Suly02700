@@ -3,7 +3,6 @@
     <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white" />
     <img src="https://img.shields.io/badge/Cisco-lightgrey?style=for-the-badge&logo=cisco&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white" />
 </p>
 
 ---
